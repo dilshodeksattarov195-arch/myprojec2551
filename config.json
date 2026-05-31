@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configeerify",
+        "uuid": 5155571,
+        "checksum": "g5mp9he"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
